@@ -8,7 +8,7 @@ import java.util.Scanner;
  * ma senza switch
  */
 
-public class CalcolatriceTrigunometricaSenzaSwitch {
+public class CalcolatriceTrigonometricaSenzaSwitch {
     public static void main(String[] args) {
         System.out.println("Scegli una tra le seguenti operazioni:\n" +
                 "\t 1) SOMMA\n \t 2) DIFFERENZA\n \t 3) PRODOTTO\n \t 4) DIVISIONE\n" +
